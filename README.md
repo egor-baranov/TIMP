@@ -1,3 +1,3 @@
 # TIMP
 
-Powerful modern music player integrated with telegram.
+Now project is being at the prototype stage.
